@@ -22,3 +22,4 @@ My goal in writing this software was to further explore C++ concepts such as ran
 # Future Work
 - Add card art
 - Add a way to categorize obtained cards for easy viewing
+- Inlcude an option that will run the program untill a specific card is pulled. Then displays how many packs had to be opened until the card was found.
