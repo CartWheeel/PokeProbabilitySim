@@ -1,0 +1,38 @@
+{
+    "packs": [
+      {
+        "name": "Charizard",
+        "common_card": ["Blitzle",	"Clobbopus",	"Cottonee",	"Doduo",	"Dubwool",	"Eevee",	"Ekans",	"Farfetch'd",	"Golett",	"Heatmor",	"Heliolisk",	"Helioptile",	"Minccino",	"Pawniard",	"Petilil",	"Ponyta",	"Psyduck",	"Raticate",	"Rattata",	"Sandshrew",	"Sizzlipede",	"Slowpoke",	"Snom",	"Swoobat",	"Woobat",	"Wooloo",	"Abra",	"Bellsprout",	"Charmander",	"Dome Fossil",	"Ducklett",	"Exeggcute",	"Fearow",	"Froakie",	"Gogoat",	"Hitmonchan",	"Machop",	"Magmar",	"Mankey",	"Mawile",	"Meltan",	"Meowth",	"Oddish",	"Poliwag",	"Pyukumuku",	"Skiddo",	"Spearow",	"Staryu",	"Tangela",	"Vulpix"],
+        "crown_card": ["Charizard Ex",	"Pikachu Ex",	"Mewtwo Ex"],
+        "three_star_card": ["Charizard Ex"],
+        "two_star_card": ["Exeggutor Ex",	"Charizard Ex",	"Moltres Ex",	"Starmie Ex",	"Machamp Ex",	"Erika",	"Blaine",	"Sabrina",	"Moltres Ex",	"Machamp Ex"],
+        "one_star_card": ["Gloom",	"Pinsir",	"Charmander",	"Rapidash",	"Lapras",	"Alakazam",	"Slowpoke",	"Meowth"],
+        "four_diamond_card": ["Exeggutor Ex",	"Charizard Ex",	"Moltres Ex",	"Starmie Ex",	"Machamp Ex"],
+        "three_diamond_card": ["Vileplume",	"Victreebel",	"Exeggutor",	"Charizard",	"Flareon",	"Moltres",	"Poliwrath",	"Lapras",	"Greninja",	"Alakazam",	"Machamp",	"Kabutops",	"Melmetal",	"Kangaskhan"],
+        "two_diamond_card": ["Gloom",	"Weepinbell",	"Pinsir",	"Whimsicott",	"Lilligrant",	"Charmeleon",	"Ninetails",	"Rapidash",	"Centiskorch",	"Golduck",	"Poliwhirl",	"Starmie",	"Frogadier",	"Bruxish",	"Frosmoth",	"Zebstrika",	"Pincurchin",	"Kadabra",	"Slowbro",	"Golurk",	"Sandslash",	"Primeape",	"Machoke",	"Kabuto",	"Grapploct",	"Arbok",	"Bisharp",	"Persian",	"Dodrio",	"Tauros",	"Cinccinon",	"Erika",	"Blaine",	"Sabrina"]
+      },
+      {
+        "name": "Mewtwo",
+        "common_card": ["Blitzle",	"Clobbopus",	"Cottonee",	"Doduo",	"Dubwool",	"Eevee",	"Ekans",	"Farfetch'd",	"Golett",	"Heatmor",	"Heliolisk",	"Helioptile",	"Minccino",	"Pawniard",	"Petilil",	"Ponyta",	"Psyduck",	"Raticate",	"Rattata",	"Sandshrew",	"Sizzlipede",	"Slowpoke",	"Snom",	"Swoobat",	"Woobat",	"Wooloo",	"Bulbasaur",	"Cubone",	"Dratini",	"Gastly",	"Grimer",	"Hitmonlee",	"Jynx",	"Kakuna",	"Koffing",	"Krabby",	"Old Amber",	"Pidgeotto",	"Pidgey",	"Rhyhorn",	"Salandit",	"Salazzle",	"Scyther",	"Shelder",	"Talts",	"Tentacool",	"Tynamo",	"Venonat",	"Weedle",	"Zubat"],
+        "crown_card": ["Charizard Ex",	"Pikachu Ex",	"Mewtwo Ex"],
+        "three_star_card": ["Mewtwo Ex"],
+        "two_star_card": ["Venusaur ex",	"Articuno ex",	"Gengar ex",	"Mewtwo ex",	"Marowak ex",	"Koga",	"Giovanni",	"Articuno ex",	"Gengar ex"],
+        "one_star_card": ["Bulbasaur",	"Cubone",	"Golbat",	"Weezing",	"Draonite",	"Pidgeot",	"Ditto",	"Porygon"],
+        "four_diamond_card": ["Venusaur ex",	"Articuno ex",	"Gengar ex",	"Mewtwo ex",	"Marowak ex"],
+        "three_diamond_card": ["Venusaur ex",	"Beedrill",	"Vaporeon",	"Articuno",	"Eelektross",	"Gengar",	"Mewtwo",	"Gardevoir",	"Muk",	"Weezing",	"Dragonite",	"Pidgeot",	"Ditto",	"Aerodactyl"],
+        "two_diamond_card": ["Ivysaur",	"Venomoth",	"Pinsir",	"Whimsicott",	"Lilligant",	"Rapidash",	"Centiskorch",	"Golduck",	"Tentacruel",	"Cloyster",	"Kingler",	"Bruxish",	"Frosmoth",	"Zebstrika",	"Eelektrik",	"Pincurchin",	"Slowbro",	"Haunter",	"Mr. Mime",	"Kirlia",	"Golurk",	"Sandslash",	"Marowak",	"Rhydon",	"Grapploct",	"Arbok",	"Golbat",	"Bisharp",	"Draonair",	"Dodrio",	"Lickitung",	"Porygon",	"Cinccino",	"Koga",	"Giovanni"]
+      },
+      {
+        "name": "Pikachu",
+        "common_card": ["Blitzle",	"Clobbopus",	"Cottonee",	"Doduo",	"Dubwool",	"Eevee",	"Ekans",	"Farfetch'd",	"Golett",	"Heatmor",	"Heliolisk",	"Helioptile",	"Minccino",	"Pawniard",	"Petilil",	"Ponyta",	"Psyduck",	"Raticate",	"Rattata",	"Sandshrew",	"Sizzlipede",	"Slowpoke",	"Snom",	"Swoobat",	"Woobat",	"Wooloo",	"Caterpie",	"Clefairy",	"Diglett",	"Drowzee",	"Electabuzz",	"Geodude",	"Goldeen",	"Growlithe",	"Helix Fossil",	"Horsea",	"Jigglypuff",	"Magikarp",	"Magnemite",	"Metapod",	"Mienfoo",	"Nidoran",	"Nidorano",	"Paras",	"Pikachu",	"Seaking",	"Seel",	"Squirtle",	"Voltorb",	"Wigglytuff"],
+        "crown_card": ["Charizard Ex",	"Pikachu Ex",	"Mewtwo Ex"],
+        "three_star_card": ["Pikachu Ex"],
+        "two_star_card": ["Arcanini ex",	"Blastoise ex",	"Pikachu ex",	"Zapdos ex",	"Wigglytuff ex",	"Misty",	"Brock",	"Lt. Surge",	"Zapdos ex",	"Wigglytuff ex"],
+        "one_star_card": ["Squirtle",	"Gyarados",	"Electrode",	"Diglett",	"Nidoqueen",	"Eevee",	"Snorlax"],
+        "four_diamond_card": ["Arcanine ex",	"Blastoise ex",	"Pikachu ex",	"Zapdos ex",	"Wigglytuff ex"],
+        "three_diamond_card": ["Butterfree",	"Arcanine",	"Blastoise",	"Gyarados",	"Omastar",	"Raichu",	"Magneton",	"Jolteon",	"Zapdos",	"Hypno",	"Golem",	"Nidoqueen",	"Nidoking",	"Snorlax"],
+        "two_diamond_card": ["Parasect",	"Pinsir",	"Whimsicott",	"Lilligant",	"Rapidash",	"Centiskorch",	"Wartortle",	"Golduck",	"Dewgong",	"Seadra",	"Omanyte",	"Bruxish",	"Frosmoth",	"Electrode",	"Zebstrika",	"Pincurchin",	"Clefable",	"Slowbro",	"Golurk",	"Sandslash",	"Dugtrio",	"Graveler",	"Onix",	"Mienshao",	"Grapploct",	"Arbok",	"Nidorina",	"Nidorino",	"Bisharp",	"Dodrio",	"Chansey",	"Chinccino",	"Misty",	"Brock",	"Lt. Surge"]
+      }
+    ]
+  }
+  
